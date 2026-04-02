@@ -9,6 +9,14 @@ function App() {
 
   return (
     <>
+      <header>
+        <p>FPT Aptech</p>
+        <p>About us</p>
+        <p>Products</p>
+        <p>Booking</p>
+        <p>Locations</p>
+      </header>
+      <main></main>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
